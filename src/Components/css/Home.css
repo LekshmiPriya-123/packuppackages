@@ -1,0 +1,92 @@
+.sect{
+    background-color: rgb(205, 224, 224);
+    padding: 2%;
+}
+.head{
+    color: white;
+    text-align: center;
+}
+.para{
+    text-align: center;
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.sec{
+    padding: 2%;
+}
+.dest{
+    text-align: center;
+    color: orange;
+}
+.desire{
+    text-align: center;
+    color: black;
+}
+.aboutus{
+    text-align: center;
+    background-color: rgb(7, 7, 46);
+    color: aliceblue;
+}
+.parag{
+    background-color: bisque;
+    color: black;
+    text-align: center;
+}
+.image{
+    text-align: center;
+}
+.serve{
+    color: white;
+    text-align: center;
+}
+.hclr{
+    background-color: rgb(3, 3, 64);
+}
+.domain{
+    text-align: center;
+    color: black;
+    text-decoration: underline;
+}
+.card-body{
+    box-sizing: border-box;
+    text-align: center;
+}
+.card{
+    align-items: center;
+
+}
+
+.card-text{
+    color: black;
+}
+.card-title{
+    color: black;
+    text-decoration: underline;
+}
+.info input{
+    padding: 8px 30px;
+}
+.info input::placeholder{
+    color: green;
+}
+.info textarea::placeholder{
+    color: green;
+}
+#submit{
+    background-color: blue;
+    color: aliceblue;
+    border-radius: 15px;
+}
+
+.info{
+align-items: flex-start;
+}
+.card-texts{
+    color: black;
+    text-decoration: underline;
+}
+.label{
+    color: black;
+}

@@ -1,0 +1,48 @@
+.contact{
+    color: black;
+    text-decoration: underline;
+}
+.sect{
+    background-color: rgba(155, 198, 176, 0.895);
+}
+.contactdetails{
+    color: black;
+}
+.section{
+    text-align: center;
+}
+.call{
+    padding: 6px 25px;
+    background-color: rgb(58, 97, 53);
+    color: aliceblue;
+    border: none;
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top:15px;
+
+}
+header{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+.destination{
+align-items: center;
+text-decoration: overline;
+}
+.head{
+    text-decoration: underline;
+    color: black;
+}
+.image{
+    padding-right: 2%;
+}
+.contact-details{
+    color: black;
+}
+.style{
+    color: black;
+}
