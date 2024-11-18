@@ -88,7 +88,7 @@ const Contact = () => {
               </div>
             </div>
             <div className="col-md-6">
-            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89285.8681985265!2d76.92595301957509!3d8.507616669071883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bbb805bbcd47%3A0x15439fab5c5c81cb!2sThiruvananthapuram%2C%20Kerala!5e0!3m2!1sen!2sin!4v1731497750975!5m2!1sen!2sin" width={500} height={500} style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            </div>
+            <iframe title='map' src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d89285.8681985265!2d76.92595301957509!3d8.507616669071883!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b05bbb805bbcd47%3A0x15439fab5c5c81cb!2sThiruvananthapuram%2C%20Kerala!5e0!3m2!1sen!2sin!4v1731497750975!5m2!1sen!2sin" width={500} height={500} style={{border:0}} allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>            </div>
           </div>
         </div>
       </section><br /><br />
